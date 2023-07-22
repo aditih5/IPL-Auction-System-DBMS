@@ -1,4 +1,4 @@
-# IPL-Auction-System-DBMS
+# IPL Auction System using concepts of DBMS
 The IPL (Indian Premier League) is one of the most popular cricket leagues in the world, featuring some of the best cricket players from across the globe. The IPL auction is an integral part of the league where the franchises bid for players to form their team.
 We designed and developed a database for an IPL auction system using all the basic RDBMS concepts and execute all the CRUD operations. The database stores and retrieves data related to the IPL auction process, including player information, franchise information, and auction results.
 
