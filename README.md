@@ -8,3 +8,5 @@ We designed and developed a database for an IPL auction system using all the bas
 * **_Auction management_**: The system provides a platform for conducting player auctions, where teams can buy the players they need.
 * **_Player statistics_**: The system provides comprehensive statistics for each player, including their performance history, average runs, and wickets.
 * **_User-friendly interface_**: The system has an intuitive and user-friendly interface, making it easy for users to navigate and manage their teams.
+
+**To watch a demo video of how the project works**: [Click Here](https://drive.google.com/drive/folders/1vsIf5RODJx27lYv8uXIegLVfsv0JSduN?usp=sharing) 
